@@ -1,5 +1,5 @@
 python
-crewai
+crewai>=0.11.0
 streamlit
 unstructured
 pyowm
