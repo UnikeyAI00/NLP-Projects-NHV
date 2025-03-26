@@ -13,3 +13,4 @@ python-dotenv
 langchain-community
 langchain-core
 openai
+crew.AI/1
