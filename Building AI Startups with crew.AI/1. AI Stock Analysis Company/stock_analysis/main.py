@@ -1,5 +1,5 @@
 import streamlit as st
-from crewai import Crew
+from crewai import crew
 from textwrap import dedent
 from stock_analysis_agents import StockAnalysisAgents
 from stock_analysis_tasks import StockAnalysisTasks
