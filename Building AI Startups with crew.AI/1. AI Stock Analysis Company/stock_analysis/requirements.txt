@@ -1,5 +1,5 @@
 python
-crewai>=0.11.0
+crewai
 streamlit
 unstructured
 pyowm
@@ -13,4 +13,3 @@ python-dotenv
 langchain-community
 langchain-core
 openai
-crew.AI/1
